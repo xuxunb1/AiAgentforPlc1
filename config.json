@@ -1,0 +1,8 @@
+{
+    "ip": "192.168.1.105",
+    "port": "502",
+    "slave": 1,
+    "baudrate": 9600,
+    "timeout": 3000,
+    "protocol": "ModbusTCP"
+}
